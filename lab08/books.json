@@ -1,0 +1,29 @@
+{
+    "books": [
+      {
+        "id": 1,
+        "name": "book A",
+        "price": "600",
+        "author1": "red",
+        "author2": "",
+        "author3": ""
+      },
+      {
+        "id": 2,
+        "name": "book B",
+        "price": "520",
+        "author1": "red",
+        "author2": "green",
+        "author3": ""
+      },
+      {
+        "id": 3,
+        "name": "book C",
+        "price": "1400",
+        "author1": "red",
+        "author2": "green",
+        "author3": "blue"
+      }
+    ]
+  }
+  
